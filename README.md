@@ -1,3 +1,7 @@
+# Travel-List
+## This is travel list to-do web application engaging with frontend library React.js using fundamenatls like props, hooks, state, component reusability etc.
+![Screenshot (10)](https://github.com/ssttomar/Travel-List/assets/92167540/6640eb46-62d3-4d6e-9912-96e0f0256200)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
